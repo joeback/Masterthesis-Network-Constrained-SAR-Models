@@ -7,7 +7,6 @@ from datetime import datetime, timezone
 import os
 from zoneinfo import ZoneInfo   # Python 3.9+
 
-# --- Config ---
 URL = "https://production.gtfsrt.vbb.de/data"
 PROJECT_ROOT = Path("/Users/joeback/Documents/Joe Uni/Masterarbeit/Data")
 
