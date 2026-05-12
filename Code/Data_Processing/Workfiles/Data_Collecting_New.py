@@ -49,7 +49,6 @@ while True:
 
         trip_updates = []
 
-        # Timestamp of the request
         ts_utc = datetime.now(timezone.utc)
         ts_berlin = ts_utc.astimezone(BERLIN)
 
