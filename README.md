@@ -28,7 +28,6 @@ Masterthesis_Hand_In_Joe_Back/
 
 ## Main Files
 
-NOTE THAT PYTHON VERSION 3.10.13 WAS USED FOR ALL NOTEBOOKS. For some newer Versions some packages might not fully work or install.
 All graphics included in the text can be found and reproduced in the following notebooks. They are separated by topic.
 
 
@@ -72,6 +71,7 @@ Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
+NOTE THAT PYTHON VERSION 3.10.13 WAS USED FOR ALL NOTEBOOKS. For some newer Versions some packages might not fully work or install. The Virtual Environment should handle this automatically, but this is a potential source for errors.
 
 ## Running the Code
 
